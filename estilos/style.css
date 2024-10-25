@@ -97,8 +97,10 @@ div.campo > input {
     transform: translateX(0.5px) translateY(-12.5px);
 }
 
+
 div.campo > input:focus-within {
     background-color: white;
+   
 }
 
 form > input[type=submit] {
